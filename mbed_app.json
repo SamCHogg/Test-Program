@@ -1,11 +1,12 @@
 {
-  "mbed_OS_version": 2,
+  "mbed_os_version": 2,
   "license": "Apache-2.0",
   "author": "SamCHogg",
   "name": "test",
   "homepage": "https://www.mbed.com",
   "description": "Just a test...",
   "author_email": "test@fake.com",
+  "version": "abc-123",
   "keywords": [
     "test",
     "mbed"
